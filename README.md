@@ -1,6 +1,6 @@
 # DB Eddie — RAG Knowledge Assistant (Technical Case Study)
 
-Technical case study of **DB Eddie**, an AI-based knowledge management assistant designed and developed at **Data Business GmbH** (September 2024 – present). The production codebase is proprietary; this repository documents the architecture, engineering decisions, and evaluation methodology.
+Technical case study of **DB Eddie**, an AI-based knowledge management assistant designed and developed at **Data Business GmbH** (September 2025 – present). The production codebase is proprietary; this repository documents the architecture, engineering decisions, and evaluation methodology.
 
 ## Problem
 
